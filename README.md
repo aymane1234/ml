@@ -1,1 +1,2 @@
-goerge hotz simple neural chess AI
+ML_implementations from ineuron
+
